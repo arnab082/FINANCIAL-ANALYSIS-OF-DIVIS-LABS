@@ -27,8 +27,3 @@ A rise in the world recession has been attributed to the Covid-19 Pandemic. In t
 ![App Screenshot](https://github.com/arnab082/FINANCIAL-ANALYSIS-OF-DIVIS-LABS/blob/main/Screenshots/4.jpeg)
 ![App Screenshot](https://github.com/arnab082/FINANCIAL-ANALYSIS-OF-DIVIS-LABS/blob/main/Screenshots/5.jpeg)
 
-
-## License
-
-Distributed under the MIT License. See LICENSE.txt for more information.
-
